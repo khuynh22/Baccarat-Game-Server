@@ -1,0 +1,10 @@
+BaccaratGame\BaccaratGameLogic.class
+BaccaratGame\Card.class
+BaccaratGame\BaccaratGame.class
+BaccaratGame\BaccaratDealer.class
+BaccaratGame\BaccaratInfo.class
+GUI\ServerApp$1.class
+Server\GameServer$ClientThread.class
+GUI\ServerApp.class
+Server\GameServer$ServerThread.class
+Server\GameServer.class
